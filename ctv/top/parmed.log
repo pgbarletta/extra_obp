@@ -1,0 +1,12 @@
+# Log started on 04/15/2022 [mm/dd/yyyy] at 19:23:40
+# Command line arguments: -p ctv.prmtop
+# Loaded topologies: ctv.prmtop
+# Log started on 04/15/2022 [mm/dd/yyyy] at 19:24:43
+parm ctv.prmtop
+hmassrepartition
+# Log started on 04/15/2022 [mm/dd/yyyy] at 19:25:15
+# Command line arguments: -p ctv.prmtop
+# Loaded topologies: ctv.prmtop
+hmassrepartition
+outparm hmass_ctv.parm7
+quit

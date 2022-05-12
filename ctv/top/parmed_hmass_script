@@ -1,0 +1,4 @@
+parm ctv.prmtop
+hmassrepartition
+outparm hmass_ctv.parm7
+go
