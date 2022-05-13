@@ -1,0 +1,4 @@
+parm eol.prmtop
+hmassrepartition
+outparm hmass_eol.parm7
+go
