@@ -1,0 +1,18 @@
+AmberMdPrep.sh Version 0.3 (beta)
+  119 protein, 0 dna, 0 rna, 0 lipid, 0 carbohydrate, 4253 water, 2 other
+  Unknown residues names: CTV,Na+
+Warning: Unknown residues detected; will be ignored for restraints.
+  Detected types :  protein
+  TOP            : ../top/ctv.prmtop
+  CRD            : ../top/ctv.rst7
+  NUM SOLUTE RES : 119
+  HEAVY MASK     : :1-119&!@H=
+  BACKBONE MASK  : :1-119@H,N,CA,HA,C,O
+  TEMPERATURE    : 300
+  OVERWRITE      : 0
+  MD COMMAND     : pmemd.cuda
+  MIN COMMAND    : pmemd.cuda_DPFP
+  NPROCS         : 4
+
+Performing standard min/equil
+Minimization: step1
